@@ -7,3 +7,5 @@ We are learning how to make commits.
 3. git commit -m "adding ..." -- creates a commit
 
 We are about to make a commit without best practices.
+
+# Word of advice -- Commit early, commit often in software development
