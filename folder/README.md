@@ -11,3 +11,5 @@ We are about to make a commit without best practices.
 # Word of advice -- Commit early, commit often in software development
 
 hi
+
+goodbye
